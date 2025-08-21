@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/qml/main.qml</file>
+        <file>src/qml/FileList.qml</file>
+        <file>src/qml/FileItem.qml</file>
+        <file>src/qml/ErrorDialog.qml</file>
+    </qresource>
+</RCC>

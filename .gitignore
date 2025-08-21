@@ -1,0 +1,45 @@
+# Qt specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+*.qm
+*.prl
+
+# Build directories
+build/
+debug/
+release/
+*.o
+*.so
+*.so.*
+*.a
+*.dll
+*.exe
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.autosave
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log 
